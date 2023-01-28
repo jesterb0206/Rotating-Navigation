@@ -15,11 +15,11 @@
 
 <br>
 
-![Rotating Navigation]()
+![Rotating Navigation](/images/rotating-navigation.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Rotating-Navigation/)
 
 <br>
 
